@@ -34,7 +34,7 @@ const Home = () => {
         rightBtnText='Existing Inventory'
       />
       <Section
-        title='Lowest Cost Solar Panels'
+        title='Lowest Cost Solar Panel'
         description='Money-back Guarantee'
         backgroundImg='solar-panel.jpg'
         leftBtnText='Order Custom'
